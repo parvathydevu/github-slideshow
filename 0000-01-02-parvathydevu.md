@@ -4,6 +4,6 @@ title: "Welcome to our second slide!"
 
 ---
 
-Your text
+"BELEIVE YOURSELF"
 
 Use the left arrow to go back!
